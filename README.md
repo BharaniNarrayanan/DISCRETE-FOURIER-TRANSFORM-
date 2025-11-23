@@ -82,6 +82,7 @@ title('Inverse FFT OF X(K)');
 ```
 # OUTPUT: 
 ![WhatsApp Image 2025-11-21 at 00 05 35_f3eba1c2](https://github.com/user-attachments/assets/50df2e31-0a36-490a-b4ca-942f0ee4cb4f)
+# OUTPUT:
 ![WhatsApp Image 2025-11-21 at 00 05 35_b3d0d15e](https://github.com/user-attachments/assets/afa344cb-78ad-4e5f-a4aa-97e1a783b48d)
 
 
